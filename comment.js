@@ -1,4 +1,4 @@
-// create web server and listen on port 3000
+// Create web server
 // npm install express
 // npm install body-parser
 // npm install mysql
